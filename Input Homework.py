@@ -28,6 +28,7 @@ debtPercentage = (debt / totalBudget) * 100
 
 # Printing the results
 print(f"Your total budget is: {totalBudget}")
+print(f"Your total spending is: {housing + utilities + groceries + transportation + healthCare + personalCare + clothing + debt}")
 print("Your spending in each category is as follows:")
 print(f"Housing: {housing} ({housingPercentage:.2f}% of the total budget)")
 print(f"Utilities: {utilities} ({utilitiesPercentage:.2f}% of the total budget)")
