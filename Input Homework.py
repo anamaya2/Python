@@ -1,7 +1,7 @@
 
 '''
 Name: Ana
-GitHub Link:
+GitHub Link: https://github.com/anamaya2/Python/blob/main/Input%20Homework.py
 '''
 # Getting the users total budget
 totalBudget = float(input("Please enter your total budget: "))
