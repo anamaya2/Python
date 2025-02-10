@@ -20,6 +20,7 @@ def collatz_conjecture(num):
 def add_numbers(num):
     num=int(num)
     sum=0
+    # While loop to check if num is greater than 1
     while num>1:
         num-=1
         sum+=num
