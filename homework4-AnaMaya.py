@@ -1,7 +1,7 @@
 '''
 Homework4
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/blob/main/homework4-AnaMaya.py
 '''
 
 def grade_calculator(score):
