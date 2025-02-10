@@ -1,7 +1,7 @@
 '''
 Homework5
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/blob/main/homework5-AnaMaya.py
 '''
 
 def collatz_conjecture(num):
