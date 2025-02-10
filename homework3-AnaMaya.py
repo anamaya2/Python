@@ -1,7 +1,7 @@
 '''
 Homework3
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/edit/main/homework3-AnaMaya.py
 '''
 
 def positive_or_negative(num):
@@ -27,3 +27,5 @@ def senior_discount(num):
 if __name__ == "__main__":
     import doctest
     print(doctest.testfile('doctest3.py', verbose=True))
+
+
