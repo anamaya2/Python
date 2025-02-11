@@ -1,7 +1,7 @@
 '''
 Homework6
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/blob/main/divisible_by_7%20-%20Ana%20Maya.py
 '''
 
 def div_by_seven(num):
