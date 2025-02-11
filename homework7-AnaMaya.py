@@ -1,7 +1,7 @@
 '''
 Homework7
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/edit/main/homework7-AnaMaya.py
 '''
 
 
