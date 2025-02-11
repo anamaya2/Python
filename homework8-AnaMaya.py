@@ -1,7 +1,7 @@
 '''
 Homework8
 Name: Ana Maya
-github link:
+github link:https://github.com/anamaya2/Python/blob/main/homework8-AnaMaya.py
 '''
 
 def sum_numbers(lst):
