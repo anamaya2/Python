@@ -20,6 +20,5 @@ def squares_of_numbers(num):
     return 
 
 if __name__ == "__main__":
-    squares_of_numbers(3)
-    # import doctest
-    # print(doctest.testfile('doctest6.py'))
+    import doctest
+    print(doctest.testfile('doctest6.py'))
