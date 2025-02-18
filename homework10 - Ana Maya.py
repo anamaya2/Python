@@ -1,7 +1,7 @@
 '''
 Homework10
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/edit/main/homework10%20-%20Ana%20Maya.py
 '''
 
 def find_missing_number(lst):
