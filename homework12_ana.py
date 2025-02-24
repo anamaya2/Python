@@ -1,7 +1,7 @@
 '''
 Homework12
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/blob/main/homework12_ana.py
 '''
 def rectangle(side1,side2):
     area = side1 * side2
