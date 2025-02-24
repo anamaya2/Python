@@ -1,7 +1,7 @@
 '''
 Homework13
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/blob/main/homework13.py
 '''
 def calculate_interest(principal, rate, time):
     interest = (principal * rate * time)
