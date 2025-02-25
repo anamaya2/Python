@@ -1,7 +1,7 @@
 '''
 Homework14
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/blob/main/homework14.py
 '''
 lb_to_kg = 0.453592
 inch_to_m = 0.0254
