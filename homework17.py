@@ -1,7 +1,7 @@
 '''
 Homework17
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/blob/main/homework17.py
 '''
 
 
