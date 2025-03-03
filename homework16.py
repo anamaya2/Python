@@ -1,7 +1,7 @@
 '''
 Homework16
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/main/homework16.py
 '''
 
 def pythagorean_thm(tuple):
