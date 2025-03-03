@@ -1,7 +1,7 @@
 '''
 Homework15
-Name:
-github link:
+Name: Ana Maya
+github link: https://github.com/anamaya2/Python/blob/main/homework15.py
 '''
 # Takes a number and returns its factorial
 def factorial(n):
