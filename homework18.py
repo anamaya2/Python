@@ -1,7 +1,7 @@
 '''
 Homework18
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/blob/main/homework18.py
 '''
 
 def iterate_dictionary(lst):
