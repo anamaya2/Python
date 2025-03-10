@@ -1,7 +1,7 @@
 '''
 Homework1
 Name: Ana Maya
-github link: 
+github link: https://github.com/anamaya2/Python/blob/main/homework1%20-%20Ana%20Maya.py
 '''
 
 import random
