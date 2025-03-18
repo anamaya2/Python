@@ -1,7 +1,7 @@
 '''
 Homework21
 Name: Ana Maya
-github link: 
+github link: https://github.com/anamaya2/Python/main/homework21.py
 '''
 def is_palindrome(string):
     cleaned_string = ''.join(char.lower() for char in string if char.isalnum())
