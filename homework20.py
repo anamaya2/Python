@@ -1,7 +1,7 @@
 '''
 Homework20
 Name: Ana Maya
-github link: 
+github link: https://github.com/anamaya2/Python/blob/main/homework20.py
 '''
 
 def convert_to_ascii(string):
