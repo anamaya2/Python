@@ -1,7 +1,7 @@
 '''
 Homework22
 Name: Ana Maya
-github link: 
+github link: https://github.com/anamaya2/Python/blob/main/homework22.py
 '''
 def mask_creditcard(string):
     # Slices the last 4 numbers and turns the others into *
