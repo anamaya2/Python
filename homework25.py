@@ -1,7 +1,7 @@
 '''
 Homework24
 Name: Ana Maya
-github link: 
+github link: https://github.com/anamaya2/Python/blob/main/homework25.py
 '''
 
 def flowers(idx,list_of_flowers):
