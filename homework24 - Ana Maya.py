@@ -1,7 +1,7 @@
 '''
 Homework24
 Name: Ana Maya
-github link: 
+github link: https://github.com/anamaya2/Python/blob/main/homework24%20-%20Ana%20Maya.py
 '''
 
 def is_valid_password(word):
