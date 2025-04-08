@@ -1,7 +1,7 @@
 '''
 Homework1
 Name: Ana Maya
-github link:
+github link: https://github.com/anamaya2/Python/edit/main/homework1%20(1).py
 Note: Remember to use comments for each function.
 doc strings should include what each input consists of, 
 what the expected output is and a description of the function.
