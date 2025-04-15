@@ -1,3 +1,8 @@
+'''
+Name: Ana Maya
+GitHub Link: https://github.com/anamaya2/Python/blob/main/employee.py
+'''
+
 class Employee:
     def __init__(self, name, number):
         self.name = name
