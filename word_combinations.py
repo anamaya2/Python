@@ -1,6 +1,6 @@
 '''
 Name: Ana Maya
-GitHub Link:
+GitHub Link: https://github.com/anamaya2/Python/blob/main/word_combinations.py
 '''
 
 # Generate the possible combinations of two letters. 
